@@ -7,12 +7,16 @@
   }
 
 h1 {
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
 }
 
 p {
-    font-size:15px;
+    font-size:25px;
     line-height: 2;
     letter-spacing: 1px;
 }
+
+img {
+    border: 5px solid #856597;
+  }
