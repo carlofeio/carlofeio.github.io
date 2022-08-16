@@ -93,3 +93,22 @@ p {
 .dropdown:hover .dropbtn {
   background-color: #808080;
 }
+
+.botaozinho{
+  background: #808080;
+
+color: white;
+
+border-style: outset;
+
+border-color: #0066A2;
+
+height: 50px;
+
+width: 100px;
+
+font: bold 15px arial, sans-serif;
+
+text-shadow:none;
+
+}
