@@ -94,13 +94,10 @@ p {
   background-color: #808080;
 }
 
-.botaozinho{
+.botaozinho {
   background-color: #800080;
-
-height: 50px;
-
-width: 100px;
-
-text-shadow:none;
-
-}
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
