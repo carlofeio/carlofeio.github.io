@@ -31,12 +31,6 @@ li a:hover:not(.active) {
   background-color: #800080;
 }
 
-* {
-    background-color:#d8bfd8;
-    font-size: 15px;
-    font-family: "Indie Flower", cursive;
-    color: slateblue; 
-  }
 
 header {
     display:block
