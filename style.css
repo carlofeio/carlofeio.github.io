@@ -95,19 +95,13 @@ p {
 }
 
 .botaozinho{
-  background: #808080;
+  background: #800080;
 
-color: white;
-
-border-style: outset;
-
-border-color: #0066A2;
+color: Black;
 
 height: 50px;
 
 width: 100px;
-
-font: bold 15px arial, sans-serif;
 
 text-shadow:none;
 
