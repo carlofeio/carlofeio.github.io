@@ -104,7 +104,6 @@ p {
   
   .formulario {
     float: right
-    width: 50%;
-    border: 3px solid green;
+    border: 3px;
     padding: 10px;
   }  
