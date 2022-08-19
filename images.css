@@ -2,6 +2,7 @@
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
 img {vertical-align: middle;}
+background-color:#e6d7ff;
 
 .slideshow-container {
   max-width: 1000px;
